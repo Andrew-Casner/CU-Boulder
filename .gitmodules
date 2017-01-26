@@ -1,0 +1,9 @@
+[submodule "2400Fall2016-Miller"]
+	path = 2400Fall2016-Miller
+	url = https://github.com/Andrew-Casner/2400Fall2016-Miller.git
+[submodule "3308Fall2016-Knox"]
+	path = 3308Fall2016-Knox
+	url = https://github.com/Andrew-Casner/3308Fall2016-Knox.git
+[submodule "3104Spring2017-Clauset"]
+	path = 3104Spring2017-Clauset
+	url = https://github.com/Andrew-Casner/3104Spring2017-Clauset.git
